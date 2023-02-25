@@ -46,7 +46,7 @@ export class ListaProdutoComponent implements OnInit{
       err => {alert("Erro ao Excluir")}
     );
 
-    this._router.navigate(["/restrito/lista"]);
+    this._router.navigate(["/restrito/restrito"]);
 
   }
 
