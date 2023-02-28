@@ -20,13 +20,6 @@
       "descricao": "Desecrição do jogo 3",
       "foto": "jogo3.PNG",
       "preco": 250
-    },
-    {
-      "id": 4,
-      "produto": "jogo 5",
-      "descricao": "jogo de ação",
-      "foto": "foto2.PNG",
-      "preco": "250"
     }
   ]
 }
